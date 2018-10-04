@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+> "Minds are not a vessel to fill, but a fire to kindle." by Pluto
